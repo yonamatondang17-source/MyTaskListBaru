@@ -40,7 +40,7 @@ Melalui aplikasi ini, pengguna dapat menambahkan, mengedit, dan menghapus tugas,
 
 | Login | Main | Add Task |
 |-------|------------|-------------|
-| ![Login](Login.png) | !Main](Main.png) | ![AddTask](AddTask.png) |
+| ![Login](Login.png) | ![Main](Main.png) | ![AddTask](AddTask.png) |
 
 ---
 
